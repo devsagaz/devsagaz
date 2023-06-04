@@ -27,4 +27,4 @@ Clique no link abaixo para fazer sua doação e contribuir com o projeto.
 </div>
 
 ##
-Criado por [@airtonlima](https://github.com/airtonlima)
+Criado e desenvolvido por [@airtonlima](https://github.com/airtonlima)
