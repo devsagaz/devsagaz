@@ -2,7 +2,7 @@
 
 Aqui mergulhamos no vasto universo do código fonte com expertise e inovação. Acreditamos que a engenharia de software é uma ciência em constante evolução. Nosso objetivo é descobrir soluções criativas, eficientes e elegantes para os problemas complexos que surgem pelo caminho. Queremos inspirar você a explorar novas tecnologias, frameworks e metodologias.
 
-Neste repositório, você encontrará todos os trechos de código referentes aos artigos postados em [nosso blog](https://devsagaz.com.br). Organizamos os trechos de código por artigos, facilitando a localização e referência. 
+Neste repositório, você encontrará todos os trechos de código referentes aos artigos postados em [nosso blog](https://devsagaz.com.br), eles estão organizamos de acordo com os títulos dos artigos, facilitando a localização e referência. 
 
 Encorajamos você a explorar e utilizar esses exemplos em seus próprios projetos e esperamos que eles sejam úteis em sua jornada de desenvolvimento. Se você encontrar erros ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
