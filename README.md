@@ -1,4 +1,4 @@
-# Repositório de Código do Blog Dev Sagaz
+# Blog Dev Sagaz
 
 Bem-vindo ao Dev Sagaz, um blog dedicado à engenharia de software. Aqui mergulhamos no vasto universo do código fonte com expertise e inovação. Acreditamos que a engenharia de software é uma ciência em constante evolução. Nosso objetivo é descobrir soluções criativas, eficientes e elegantes para os problemas complexos que surgem pelo caminho. Queremos inspirar você a explorar novas tecnologias, frameworks e metodologias.
 
