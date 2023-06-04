@@ -10,13 +10,14 @@ Valorizamos seu feedback e sugestões. Para contribuir, siga as diretrizes em no
 
 Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 
-
 [![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
 
-Criado por [@airtonlima](https://github.com/airtonlima)
+##
+Se você acredita no poder do conhecimento compartilhado e deseja ver o Dev Sagaz crescer e prosperar, considere fazer uma doação hoje mesmo. Juntos, podemos construir uma comunidade ainda mais forte e capacitada. 
 
+Clique no link abaixo para fazer sua doação e contribuir com o projeto.
 
-
+<a href="https://www.buymeacoffee.com/airton.lima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
 
 ##
 <div>
@@ -26,4 +27,4 @@ Criado por [@airtonlima](https://github.com/airtonlima)
 </div>
 
 ##
-<a href="https://www.buymeacoffee.com/airton.lima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
+Criado por [@airtonlima](https://github.com/airtonlima)
