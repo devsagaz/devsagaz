@@ -1,7 +1,6 @@
 # Blog Dev Sagaz
 
 [![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devsagaz/)
 
 <div>
     <a href="https://github.com/devsagaz" />
@@ -27,19 +26,6 @@ Para contribuir, siga as diretrizes em nosso [guia de contribuição](link_para_
 Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 
 Equipe Dev Sagaz
-Criado por @airtonlima
-
-<!-- 
-### Tecnologias que mais utilizo
-
-<div style="display: inline_block">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div> -->
 
 ##
 
