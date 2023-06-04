@@ -1,5 +1,15 @@
 # Blog Dev Sagaz
 
+[![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devsagaz/)
+
+<div>
+    <a href="https://github.com/devsagaz" />
+    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api?username=devsagaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsagaz&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
+
+
 ## Desbravando o Universo do Código com Expertise e Inovação
 
 Bem-vindo ao Dev Sagaz, um blog dedicado à engenharia de software. Aqui, mergulhamos no vasto universo do código com expertise e inovação. Nossos especialistas compartilham conhecimento, exploram tecnologias em constante evolução e promovem discussões estimulantes sobre os desafios e oportunidades enfrentados pelos desenvolvedores.
@@ -18,15 +28,6 @@ Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 
 Equipe Dev Sagaz
 Criado por @airtonlima
-
-[![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devsagaz/)
-
-<div>
-    <a href="https://github.com/devsagaz" />
-    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api?username=devsagaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsagaz&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
 
 <!-- 
 ### Tecnologias que mais utilizo
