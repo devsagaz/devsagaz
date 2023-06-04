@@ -6,7 +6,7 @@ Neste repositório, você encontrará todos os trechos de código referentes aos
 
 Esperamos que esses trechos de código sejam úteis em sua jornada de desenvolvimento. Fique à vontade para acompanhar o Dev Sagaz em nosso blog e contribuir com a comunidade de desenvolvedores. Junte-se a nós nessa jornada emocionante de desbravar o universo do código fonte com expertise e inovação.
 
-Valorizamos seu feedback e sugestões. Para contribuir, siga as diretrizes em nosso [guia de contribuição](https://devsagaz.com.br/contribution-guide/){:target="_blank"}. Entre em contato conosco para compartilhar suas ideias e perguntas por este [formulário de contato](https://airtonlima.dev.br/#contact){:target="_blank"}.
+Valorizamos seu feedback e sugestões. Para contribuir, siga as diretrizes em nosso [guia de contribuição](https://devsagaz.com.br/contribution-guide/). Entre em contato conosco para compartilhar suas ideias e perguntas por este [formulário de contato](https://airtonlima.dev.br/#contact).
 
 Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 
