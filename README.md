@@ -12,9 +12,12 @@ Valorizamos seu feedback e sugestões. Para contribuir, siga as diretrizes em no
 
 Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 
+[![](https://visitcount.itsvg.in/api?id=devsagaz&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 [![website](https://img.shields.io/website?label=DevSagaz&style=for-the-badge&logo=blogger&logoColor=white&url=https://devsagaz.com.br/)](https://devsagaz.com.br/)
 
-[![](https://visitcount.itsvg.in/api?id=devsagaz&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devsagaz) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devsagaz) 
 
 ##
 Se você acredita no poder do conhecimento compartilhado e deseja ver o Dev Sagaz crescer e prosperar, considere fazer uma doação hoje mesmo. Juntos, podemos construir uma comunidade ainda mais forte e capacitada.
