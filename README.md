@@ -24,5 +24,3 @@ Agradecemos por visitar o Dev Sagaz e esperamos vê-lo em breve!
 Se você acredita no poder do conhecimento compartilhado e deseja ver o Dev Sagaz crescer e prosperar, considere fazer uma doação hoje mesmo. Juntos, podemos construir uma comunidade ainda mais forte e capacitada.
 
 <a href="https://www.buymeacoffee.com/airton.lima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
-
-##
