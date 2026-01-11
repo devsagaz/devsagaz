@@ -26,8 +26,3 @@ Se você acredita no poder do conhecimento compartilhado e deseja ver o Dev Saga
 <a href="https://www.buymeacoffee.com/airton.lima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
 
 ##
-<div>
-    <a href="https://github.com/devsagaz" />
-    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api?username=devsagaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img align="center" height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsagaz&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
